@@ -20,4 +20,5 @@ In this first project, I built a Python script that:
 - Scrapes **quotes tagged with “love”** from [quotes.toscrape.com](https://quotes.toscrape.com/tag/love/)
 - Extracts each **quote, author, and tags**
 - Saves the results neatly in an **Excel file** using `openpyxl`
+![Capture](https://github.com/dinaibrahim6/web-scraping-journey/blob/main/ScrapQuotes_to_Excel/Capture.PNG)
 
