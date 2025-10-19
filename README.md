@@ -11,7 +11,7 @@ Welcome to my **Web Scraping Journey** — a collection of small projects built 
 - `pandas` — for data cleaning and analysis
 I would add another tools while i go along with the journey.
 
-#  ScrapQuotes_to_Excel (ScrapQuotes_to_Excel/) 
+#  ScrapQuotes_to_Excel
 
 ### Project Description
 This project is part of my **Web Scraping Journey** .
